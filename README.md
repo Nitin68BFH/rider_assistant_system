@@ -1,6 +1,6 @@
 # 🚴 Rider Assistant System
 
-A beginner-friendly data science project that helps riders choose the safest and most efficient route based on real-time **weather**, **traffic**, and **accident risk**. Ideal for delivery drivers, bike commuters, and everyday riders.
+A beginner-friendly data science project that helps riders choose the safest and most efficient route based on real-time **weather**, **traffic**, and **accident risk**. Ideal for solo travelers, bikers, and city riders looking for safe and efficient routes — from remote terrains like Leh–Ladakh to busy urban roads.
 
 ---
 
